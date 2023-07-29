@@ -10,9 +10,8 @@ import { Component } from '@angular/core';
       </a>
     </div>
 
-    <h2>Analog</h2>
+    <h1>Hello Analog</h1>
 
-    <h3>The fullstack meta-framework for Angular!</h3>
 
     <div class="card">
       <button type="button" (click)="increment()">Count {{ count }}</button>
